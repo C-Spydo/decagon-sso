@@ -57,8 +57,9 @@ The SSO microservices architecture will be designed as a loosely coupled system 
 
 ## Methodology
 
-  **Agile Methodology-:** This will allow us to have small teams working on each microservices in sprints. Features are broken down to tasks which are then structured into a series of 2-week sprints. The Web interface module & Admin Module will have 2 backend and 1 frontend Engineers each. The client-facing API module will have 1 backend engineer. 
-**Team breakdown (9 Engineers)**
+  **Agile Methodology-:** This will allow us to have small teams working on each microservices in sprints. Features are broken down to tasks which are then structured into a series of 2-week sprints. The Web interface module & Admin Module will have 2 backend and 1 frontend Engineers each. The client-facing API module will have 1 backend engineer.
+  
+###Team breakdown (9 Engineers)
 -   Backend Engineers (SpringBoot) - 5    
 -   Frontend Engineers(React + TailwindCSS) - 2
 -   QA Engineer (Manual & Automated Testing)  - 1
